@@ -1,12 +1,11 @@
 <template>
-  <div>This is an undefined route.</div>
+    <div>This is an undefined route.</div>
 </template>
 
 <script>
 export default {
-  name: "404"
+    name: "404"
 };
 </script>
 
-<style scoped>
-</style>
+<style scoped></style>
